@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**sibin2000/sibin2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently ... CSE Engineering student @ A J Institute of Engineering and Technology.
+- 🌱 I’m currently learning ... Web Development.
+- 👯 I’m looking to collaborate on ... Open Source Contributions.
+- 🤔 I’m looking for help with ...  All the Feilds of Computer Science.
+- 💬 Ask me about ... Anything 😁 
+- 📫 How to reach me: ...  [Twitter](https://twitter.com/Sibints3)
+                           [LinkedIn](https://www.linkedin.com/in/sibin-t-s-a3b474199)
+- 😄 Pronouns: ... He/Him.
+- ⚡ Fun fact: ... I am in the midddle of nowhere 🤣 
+.
