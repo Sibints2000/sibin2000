@@ -8,11 +8,12 @@
 - 👯 I’m looking to collaborate on ... Open Source Contributions & python project
 - 🤔 I’m looking for help with ...  All the Feilds of Computer Science.
 - 💬 Ask me about ... Anything 😁 
-- 📫 How to reach me: ...  [Twitter](https://twitter.com/Sibints3) &nbsp;
-                           [LinkedIn](https://www.linkedin.com/in/sibin-t-s-a3b474199)
 - 😄 Pronouns: ... He/Him.
 - ⚡ Fun fact: ... I am in the midddle of nowhere 🤣 
 .
 
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
+| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/sibin-t-s-a3b474199/)
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/Sibints3)
