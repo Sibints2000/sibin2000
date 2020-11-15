@@ -1,8 +1,6 @@
-### Hi there
+### Hei, I'm Sibin 
 
-
-
-Here are some ideas to get you started:
+About Me 🚀
 
 - 🎓 I’m currently ...  a junior pursuing my Bachelors in Computer Science & Engineering.
 -  I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things.
