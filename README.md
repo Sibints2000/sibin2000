@@ -36,7 +36,7 @@
 <img align="left" alt="strapi" width="26px" src="https://api.dowhile.com.br/uploads/e55d419eb1dc44b095ad33e02df07ddf.jpg" />
 
 
-
+<br>
 
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
